@@ -2,6 +2,7 @@
 This project involves the analysis of road accident data using Excel and SQL to uncover patterns, trends, and actionable insights. It demonstrates my skills in data cleaning, transformation, querying, visualization, and dashboard creation.
 
 📁 **Project Overview**
+
 The goal of this project is to:
 - Analyze historical road accident data.
 - Identify key factors contributing to accidents and casualties.
